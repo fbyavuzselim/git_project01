@@ -3,7 +3,9 @@ package gitPackage;
 public class GitDay2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("hello WORLD!");
+		System.out.println("Hello Git Users!");
+		System.out.println("Check if your local is ahead of origin master");
 
 	}
 
